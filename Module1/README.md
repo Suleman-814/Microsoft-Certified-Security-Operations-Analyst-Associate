@@ -50,3 +50,5 @@ Detect suspicious activities and investigate cloud-related threats.
 **Learning Outcome**
 
 Completed all six modules and passed all module assessments as part of my SC-200 Microsoft Security Operations Analyst certification preparation.
+
+**Thank You!!**
